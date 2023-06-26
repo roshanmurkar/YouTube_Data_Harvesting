@@ -1,0 +1,5 @@
+google-api-python-client==2.89.0
+pymongo==4.3.3
+PyMySQL==1.0.3
+SQLAlchemy==2.0.16
+streamlit==1.23.1
