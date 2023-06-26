@@ -18,6 +18,7 @@ The problem statement is to create a Streamlit application that allows users to 
 This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and enables users to search for channel details and join tables to view data in the Streamlit app.
 
 ## Workflow :
+
 1. Connect to the YouTube API this API is used to retrieve channel, videos, comments data. I have used the Google API client library for Python to make requests to the API.
 2. The user will able to extract the Youtube channel's data using the Channel ID. Once the channel id is provided the data will be extracted using the API.
 3. Once the data is retrieved from the YouTube API, I've stored it in a MongoDB. I've use Atlas MongoDBto to store online data. MongoDB is a great choice for a data lake because it can handle unstructured and semi-structured data easily.
@@ -31,3 +32,5 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 ![image](https://github.com/roshanmurkar/YouTube_Data_Harvesting/assets/85471797/8995f50f-2564-471f-8eee-1caebc662f27)
 
 ## Video presentation of Project :
+
+https://github.com/roshanmurkar/YouTube_Data_Harvesting/assets/85471797/6a49aff9-2bce-441e-b59e-b8ff2db2ae30
