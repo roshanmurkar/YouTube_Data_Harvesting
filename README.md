@@ -28,9 +28,6 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 7. Finally, the retrieved data is displayed in the Streamlit app. Also used Plotly's data visualization features to create charts and graphs to help users analyze the data.
 8. Overall, this approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing it in a MongoDB data lake, migrating it to a SQL data warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.
 
-## App looks Like :
-![image](https://github.com/roshanmurkar/YouTube_Data_Harvesting/assets/85471797/8995f50f-2564-471f-8eee-1caebc662f27)
-
 ## Video presentation of Project :
 
 https://github.com/roshanmurkar/YouTube_Data_Harvesting/assets/85471797/6a49aff9-2bce-441e-b59e-b8ff2db2ae30
